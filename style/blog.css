@@ -2,7 +2,20 @@
     margin: 0px;
     padding: px;
 }
-.tBlog{
+.fBlog{
     background-color: tomato;
     padding: 10px;
+}
+.margin_padding{
+    margin: 10px;
+    padding: 15px;
+    border: 2px solid;
+    box-shadow: 10px 10px 20px;
+}
+.sBlog{
+    background-image: url('../images/briyani.jpg');
+    background-repeat: contain;
+    background-size: 200px;
+    color: white;
+    font-weight: bold;
 }
