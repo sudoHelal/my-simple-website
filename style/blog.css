@@ -11,6 +11,7 @@
     padding: 15px;
     border: 2px solid;
     box-shadow: 10px 10px 20px;
+    font-family:'Courier New', Courier, monospace;
 }
 .sBlog{
     background-image: url('../images/briyani.jpg');
